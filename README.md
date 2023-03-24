@@ -8,7 +8,7 @@ R 프로그램을 이용하여 서울시 공공자전거 대여량과 날씨의 
 
 # 데이터
 데이터셋은 UCI data set에서 제공하는 "Seoul Bike Sharing Demand Data Set" 데이터를 이용하였습니다. <br>
-![image](https://user-images.githubusercontent.com/96982575/227447435-93a1d894-83a8-4d98-90ce-0246e35a2ace.png)
+![image](https://user-images.githubusercontent.com/96982575/227447435-93a1d894-83a8-4d98-90ce-0246e35a2ace.png) <br>
 링크: https://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+Demand
 
 # 개요
