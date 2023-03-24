@@ -54,7 +54,7 @@ Rented.Bike.Count ~ Temperature + Humidity + Wind.speed + Visibility + Dew.point
 Visibility, Dew.point.temperature 유의하지 않음 <br>
 즉 자전거 대여량은 가시성, 이슬점온도와 관계가 없다. <br>
 
-![image](https://user-images.githubusercontent.com/96982575/227451197-e5016262-e907-49e8-bdbd-c4de216d37d4.png)
+![image](https://user-images.githubusercontent.com/96982575/227451197-e5016262-e907-49e8-bdbd-c4de216d37d4.png)  <br>
 Rented.Bike.Count = 905.097 + 36.243*Temperature -11.333*Humidity + 50.743*Wind.speed -118.666*Solar.Radiation <br>
 온도, 습도, 풍속, 일사량의 변화가 39%를 설명 <br>
 일사량이 낮을 수록 자전거 대여 갯수가 가장 크게 줄어든다 <br>
