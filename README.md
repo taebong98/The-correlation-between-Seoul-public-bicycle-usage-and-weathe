@@ -34,7 +34,7 @@ a: Temperature <br>
 a = 329.95, b = 29.08 <br>
 
 ### Summary 
-![image](https://user-images.githubusercontent.com/96982575/227449917-ef20b1c9-ce09-407b-9b10-5eb2867dc784.png)
+![image](https://user-images.githubusercontent.com/96982575/227449917-ef20b1c9-ce09-407b-9b10-5eb2867dc784.png)  <br>
 자전거 대여수와 온도 사이의 관계가 있는가? Y <br>
 온도가 변하면 자전거 대여수가 변화하는가? Y <br>
 온도는 자전거 대여수에 영향을 미치는가?  Y <br>
